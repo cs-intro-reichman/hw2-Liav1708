@@ -4,7 +4,7 @@ public class CalcPi {
 	    
 		int reps = Integer.parseInt(args[0]);
 
-		int counter = 0;
+		int counter = 1;
 		double divider = 3.0;
 		double sum = 1.0;
 		boolean minusOrPlus = false;
