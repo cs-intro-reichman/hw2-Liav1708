@@ -20,7 +20,7 @@ public class Cheers {
                         System.out.println("Give me an " + newWord.charAt(counter) + ": " + newWord.charAt(counter) + "!");
                 }
                 else {
-                        System.out.println("Give me a " + newWord.charAt(counter) + ":  " + newWord.charAt(counter) + "!");
+                        System.out.println("Give me a  " + newWord.charAt(counter) + ": " + newWord.charAt(counter) + "!");
 
                 }
 
