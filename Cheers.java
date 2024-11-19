@@ -28,11 +28,9 @@ public class Cheers {
             }
 
             System.out.println("What does that spell?");
-            if(reps!=0){
             for(int i =0;i < reps;i++){
 
                 System.out.println(newWord + "!!!");
-            }
-            }     
+            }   
         }
 }
