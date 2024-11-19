@@ -39,7 +39,9 @@ public class Collatz {
 				System.out.println("");
 				moveCounter = 0;
 			}
-		} else if (value.charAt(0) == 'c') {
+			System.out.println("Every one of the first " + seed + " hailstone sequences reached 1.");
+		}
+		else if (value.charAt(0) == 'c') {
 
 			for (int i = seed; i != 0; i--){
 
