@@ -37,7 +37,7 @@ public class Collatz {
 				endLoop = true;
 				System.out.print("1 (" + moveCounter + ")");
 				System.out.println("");
-				moveCounter = 0;
+				moveCounter = 0; 
 			}
 			System.out.println("Every one of the first " + seed + " hailstone sequences reached 1.");
 		}
