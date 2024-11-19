@@ -8,7 +8,7 @@ public class Cheers {
             int counter = 0;
 
             String newWord = word.toUpperCase();
-            System.out.println(newWord);
+            //System.out.println(newWord);
 
 
            while(counter < word.length()) {
